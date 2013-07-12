@@ -259,7 +259,7 @@ the meta-info of the first step, and returns a hash with the upload url and toke
 
 h2. Feedback
 
-I'll really appreciate your feedback, please contact me at vibha[at]vinsol.com
+I'll really appreciate your feedback, please contact me at vibha.dei@gmail.com
 
 h2. License
 
